@@ -1,0 +1,11 @@
+body {
+    background-color: #DFF6FF;
+}
+
+hr {
+    border-color: grey;
+    border-style: none; /* override default css */
+    border-top-style: dotted; /* this is more specific */
+    border-width: 5px;
+    width: 5%;
+}
